@@ -1,0 +1,24 @@
+.nav-bg-dark {
+  background-color: #6667ab;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #8485c0;
+}
+
+#about {
+  background-color: #dddffd;
+}
+
+#projects {
+  background-color: #8485c0;
+}
+
+#contact {
+  background-color: #dddffd;
+}
+
+section {
+  padding-top: 5rem;
+}
