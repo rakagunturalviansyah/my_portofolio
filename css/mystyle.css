@@ -1,22 +1,30 @@
 .nav-bg-dark {
-  background-color: #6667ab;
+  background-color: #232931;
 }
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #8485c0;
+  background-color: #232931;
 }
 
 #about {
-  background-color: #dddffd;
+  background-color: #eeeeee;
+}
+
+#education {
+  background-color: #232931;
+}
+
+#soft_skills {
+  background-color: #eeeeee;
 }
 
 #projects {
-  background-color: #8485c0;
+  background-color: #232931;
 }
 
 #contact {
-  background-color: #dddffd;
+  background-color: #eeeeee;
 }
 
 section {
